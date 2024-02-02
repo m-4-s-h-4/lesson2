@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(30, 30, 30); 
+  background-color: rgb(30, 30, 30);
 }
 
 .center-content {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; 
+  height: 100vh;
 }
