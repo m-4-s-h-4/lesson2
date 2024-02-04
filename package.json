@@ -10,7 +10,8 @@
     "lint": "eslint . --ext .js,.vue",
     "format": "prettier --check .",
     "prepare": "husky install",
-    "start": "vite"
+    "start": "vite",
+    "test": "npx vitest"
   },
   "dependencies": {
     "vue": "^3.3.11"
